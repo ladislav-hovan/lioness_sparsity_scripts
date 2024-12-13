@@ -7,7 +7,7 @@ import numpy as np
 from pathlib import Path
 from typing import Iterable
 
-from lib.functions import plot_boxplots
+from .lib.functions import plot_boxplots
 
 ### Functions ###
 def plot_coexpression_error_by_sparsity(

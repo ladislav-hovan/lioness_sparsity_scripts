@@ -9,7 +9,7 @@ import pandas as pd
 from pathlib import Path
 from typing import Optional
 
-from lib.functions import create_lioness_networks
+from .lib.functions import create_lioness_networks
 
 ### Functions ###
 def calculate_coexpression_networks(

@@ -6,7 +6,7 @@ import numpy as np
 from pathlib import Path
 from typing import Iterable
 
-from lib.functions import load_file
+from .lib.functions import load_file
 
 ### Functions ###
 def calculate_coexpression_error(

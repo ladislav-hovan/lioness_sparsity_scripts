@@ -3,7 +3,7 @@
 ### Imports ###
 from pathlib import Path
 
-from lib.functions import load_file
+from .lib.functions import load_file
 
 ### Functions ###
 def calculate_degrees(
