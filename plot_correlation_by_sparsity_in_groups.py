@@ -8,7 +8,7 @@ from itertools import pairwise
 from pathlib import Path
 from typing import Iterable, Literal
 
-from .lib.functions import plot_boxplots_in_groups
+from lib import plot_boxplots_in_groups
 
 ### Functions ###
 def plot_correlation_by_sparsity_in_groups(

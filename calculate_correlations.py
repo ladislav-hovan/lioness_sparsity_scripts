@@ -7,7 +7,7 @@ import scipy.stats as stats
 from pathlib import Path
 from typing import Iterable
 
-from .lib.functions import load_file
+from lib import load_file
 
 ### Functions ###
 def calculate_correlations(

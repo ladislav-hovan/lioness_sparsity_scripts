@@ -7,7 +7,7 @@ import numpy as np
 from pathlib import Path
 from typing import Iterable, Literal
 
-from .lib.functions import plot_boxplots
+from lib import plot_boxplots
 
 ### Functions ###
 def plot_correlation_by_sparsity(
