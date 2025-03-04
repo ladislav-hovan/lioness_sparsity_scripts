@@ -54,7 +54,7 @@ implement a command line interface.
 For more information on how to run them and the required input:
 
 ``` bash
-# This particular script is only used as an example
+# Works for every script
 python filter_expression_and_priors.py --help
 ```
 
