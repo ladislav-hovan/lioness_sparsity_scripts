@@ -1,0 +1,5 @@
+matplotlib
+netZooPy
+numpy
+pandas
+scipy
